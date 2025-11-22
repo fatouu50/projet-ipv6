@@ -62,13 +62,6 @@ Le rapport complet est disponible dans :
 
 ---
 
-## 👩‍💻 Auteur
-Fatouma Soubere
 
----
-
-## ⚡ Astuce
-Même sans code, ce dépôt permet de :  
-- Montrer ton expertise en réseau et IPv6  
 - Fournir un document complet et structuré pour recruteurs ou enseignants  
 - Organiser ton projet de manière professionnelle
